@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ##  Life is too short to be little.
 <p>
-  <em>:bowtie:
-    저는 이제 막 시작한 신입 개발자입니다. 👨‍💻 <br>
+  <em>:bowtie:<br>
+    이제 막 시작하는 신입 개발자입니다. 👨‍💻 <br>
     다양한 경험 하는 걸 좋아합니다. 🎁 <br>
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
   </em>  

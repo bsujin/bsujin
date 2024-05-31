@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![bsujin's github stats](https://github-readme-stats.vercel.app/api?username=bsujin&show_icons=true)
 [![bsujin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsujin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bsujin)
 
-##  Life is too short to be little.
+## Only I can change me life, no one can do it for me. 
 <p>
   <em>:bowtie:<br>
     열심히 하는 풀스택 개발자입니다. 👨‍💻 <br>
@@ -40,6 +40,5 @@ Here are some ideas to get you started:
 * Development Diary 
 
 ### Contacts 📫
-
-  
+ 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
